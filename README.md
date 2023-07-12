@@ -1,6 +1,7 @@
 # VanBitCrakcen GUI
 
-![image](https://github.com/Mizogg/VanBitCracken-GUI/assets/88630056/8e121c61-28dd-4a9b-a683-ac9e0e54d0e0)
+![image](https://github.com/Mizogg/VanBitCracken-GUI/assets/88630056/166b14cf-c83a-473c-a586-60b7827c0c83)
+
 
 # VanBitCrakcenS
 VanBitCracken Spread
@@ -46,7 +47,6 @@ pause
 
 More to follow...
 
-![image](https://github.com/Mizogg/VanBitCracken-GUI/assets/88630056/e4a3f095-54f7-4551-8d25-6956980fec19)
 
 
 # VanBitCrackenRandom
