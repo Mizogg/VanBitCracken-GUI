@@ -2,6 +2,7 @@
 
 ![image](https://github.com/Mizogg/VanBitCracken-GUI/assets/88630056/166b14cf-c83a-473c-a586-60b7827c0c83)
 
+## GET it HERE https://mizogg.co.uk/vanbitcrakcen/
 
 # VanBitCrakcenS
 VanBitCracken Spread
